@@ -62,6 +62,7 @@
       width:100px;
       font-size:12px;
     }
+    
     .p{
       color:white;
     }
